@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="load_more">Load More...</string>
+    <string name="processing_wait">Processing... Please wait.</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="rating">"Rating: "</string>
+    <string name="release_date">"Release Date: "</string>
+</resources>

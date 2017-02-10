@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_bfb1bade4ec4e82d0b302e505254ccef55f16c67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_061f378866fc07c16f8c167df47f194d8d2d86dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_c4765df958714f59dd204d82d5df144a7356a3df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_af446dea5321c56c1ccf9d232a41985afd6c4017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_2e56e3c69258f5ac9c00b47a9503a08b59ee1b31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_21019dfff6bbc62131795dac13425d0d9cbe6981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_f3163cd71bc838b2fc873faf83b09a210d12f046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_9cfb89f6a06bd224d946cb319be416ad311d84f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_4296a6ee48fd7dac59788192f4d5c56c4767f40e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_de3df2188466e941b2c17829850c4918a94a4255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_885b4306c30123684ddd38f6058c70bd9e84a8f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_dc5c92fe002b83365b960fda7a3ca3c0c4aedf2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_97956a8d976e32273e3f2d1739edf94fa6a3d042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_1a725b1e642efdb796a25893f737dc84e606fab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/okio-1.8.0_825d2d0984337c68fbeab8396f78c6444396a3bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_549e3a8cb5a1d2bfe39bcea7828a04f5b70451c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_14583240f4caa1edf84196626b37dae503a901c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_976f490b2cc89dbadeafe3a76bffa0ae6bf9ad70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/gson-2.7_250ba1930277e94eb43f56d93cd7bd254189b5de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/erickson/Documents/workspace/PopularMovies/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_4f0422e80f9999a4a8868187c52d6d0089e15504.jar" />
+    </item>
+
+</items>
